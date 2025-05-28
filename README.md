@@ -37,4 +37,3 @@
   </td>
 </tr>
 </table>
-ithub.com/Scar1109/skill-icons/blob/Scar1109/icons/TailwindCSS-Light.svg" alt="tailwind" width="50" height="50"/> </a> </p>
