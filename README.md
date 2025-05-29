@@ -13,7 +13,7 @@
     <img src="https://skillicons.dev/icons?i=git,css,discord,postgres,github,html,java,js,linux,mysql,vscode,idea,windows&perline=14" />
   </a>
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanyagupta0201&theme=dark)](https://github.com/AminMallouk/github-readme-stats)
+
 <br>
 <table style="border: none;">
   <tr>
