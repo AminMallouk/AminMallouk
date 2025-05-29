@@ -10,7 +10,18 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=git,css,github,html,java,js,linux,mysql,vscode,idea,windows&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,css,html,java,js,mysql,idea&perline=14" />
+  </a>
+</p>
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Tools 🛠️</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=git,github,linuxvscode,idea,windows&perline=14" />
   </a>
 </p>
 
