@@ -39,5 +39,5 @@
 
 <div align=center>
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AminMallouk&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AminMallouk&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AminMallouk&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
 </div>
