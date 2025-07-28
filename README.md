@@ -37,7 +37,7 @@
   </tr>
 </table>
 
-<table style="border: 1px solid green; text-align: center;">
+<table style="border: none; width: 100%;">
   <tr>
     <td>
       <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AminMallouk&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
