@@ -32,7 +32,7 @@
        <img src="https://github-readme-streak-stats.herokuapp.com?user=AminMallouk&theme=dark&hide_border=false" width="500" alt="GitHub Streak Stats">
     </td>
   </tr>
-</table> -->
+</table> 
 <img src="https://github-readme-stats.vercel.app/api?username=AminMallouk&show_icons=true&theme=dark" width="500" alt="GitHub Stats">
 <table>
   <tr>
@@ -44,3 +44,4 @@
     </td>
   </tr>
 </table>
+-->
