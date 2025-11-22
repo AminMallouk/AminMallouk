@@ -21,7 +21,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,scenebuilder,windows,linux&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,windows,linux&perline=14" />
   </a>
 </p>
 
