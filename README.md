@@ -10,7 +10,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=git,css,html,java,js,mysql,dart,flutter,idea&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,css,html,java,js,mysql,dart,idea&perline=14" />
   </a>
 </p>
 <div id="user-content-toc">
@@ -21,7 +21,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,windows,linux&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,flutter,windows,linux&perline=14" />
   </a>
 </p>
 
